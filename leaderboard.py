@@ -1,0 +1,1 @@
+leaderboard_run(Leaderboards.Hay, 'gen_Hay_and_Tree', 1000)
